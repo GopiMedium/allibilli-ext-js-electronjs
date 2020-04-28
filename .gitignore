@@ -1,0 +1,4 @@
+/build
+/electron/app/
+*.log
+/ext
