@@ -2,3 +2,7 @@
 /electron/app/
 *.log
 /ext
+javacore.*
+*.trc
+*.dmp
+.DS_Store
